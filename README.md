@@ -1,5 +1,5 @@
 Hi, I'm Noor Ul Hassan 👋
-Full Stack Web Developer and C++ Programmer(250+ leetcode questions)
+Full Stack Web Developer and C++ Programmer(250 leetcode questions)
 
 Currently Working on Saas Projects and leading over 12+ team of people
 
